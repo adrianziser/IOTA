@@ -9,4 +9,4 @@ sudo apt-get install -y --force-yes oracle-java8-installer
 unzip IRI-latest-striped.zip
 rm IRI-latest-striped.zip
 cd IRI
-java -jar IRI.jar
+java -jar IRI.jar &
