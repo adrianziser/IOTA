@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "IOTA Node on Ubuntu",
+  "description": "This template deploys a iota node on a Ubuntu virtual machines. Please check out https://iotatoken.com for more information.",
+  "summary": "Deploy IOTA on Ubuntu",
+  "githubUsername": "mrpink85",
+  "dateUpdated": "2016-05-19"
+}
